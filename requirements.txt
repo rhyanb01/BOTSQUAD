@@ -1,0 +1,2 @@
+pip install tensorflow tensorflow-datasets numpy opencv-python-headless pygame truststore requests
+python -m pip install --upgrade pip
